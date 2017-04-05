@@ -130,7 +130,7 @@
                     "min_required": "256mb"
                 }, 
                 "os": "ubuntu", 
-                "osVersion": "16.04
+                "osVersion": "16.04",
                 "servicepack": "", 
                 "storage": {
                     "min_required": "10gb"
